@@ -24,37 +24,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/09/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
- <span id="more"></span>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>养成日记</title>
-    <url>/2019/05/12/%E5%85%BB%E6%88%90%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<p>陈墨一3点就醒了，一晚没睡！<br> <span id="more"></span><br>晚上情绪有点炸裂，很想强迫她躺下，虽然知道这不可能，好不容易忍住了。觉得自己对小孩还是不够理解，总是想让她对自己好感度增加一点，但是一旦真的让我带，又觉得心不在焉。</p>
-<p>不知道别的父母在面对小孩子一直苦恼的时候都是怎么办的。<br><img data-src="/images/cmy-20190512.jpg" width="30%" height="30%"></p>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>带娃</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上幼儿园了</title>
     <url>/2021/09/05/%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BA%86/</url>
     <content><![CDATA[<p>今天要去报到了，转眼已经到了能正式上学的年纪，回首过往仿佛还都在眼前，还能清晰记得你妈刚刚怀上你的时候的场景。</p>
@@ -71,26 +40,10 @@
       </tags>
   </entry>
   <entry>
-    <title>养成日记4</title>
-    <url>/2020/03/01/%E5%85%BB%E6%88%90%E6%97%A5%E8%AE%B04/</url>
-    <content><![CDATA[<p>在家远程办公的好处就是可以随时见到小孩。虽然有时候挺吵，但是随时能看到，就觉得挺幸福。</p>
-<p>没有自己带，总觉得老人会把她带坏。看到她一个人认真地在看书，难以置信平时这么吵闹居然能看进去。如果真的对书有那么深的爱好，那这辈子，至少是个有自己世界、自己思维的人了。</p>
- <span id="more"></span>
-<img data-src="/images/cmy-20200301.jpg" width="30%" height="30%">]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>带娃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>养成日记3</title>
-    <url>/2020/02/05/%E5%85%BB%E6%88%90%E6%97%A5%E8%AE%B03/</url>
-    <content><![CDATA[<p>陈墨一会的词语越来越多，懂得的事情也越来越多，好像越来越好玩了。</p>
-<p>除了吃东西仍然啥都要。。。</p>
- <span id="more"></span>
-<img data-src="/images/cmy-20200205.jpg" width="30%" height="30%">
+    <title>养成日记</title>
+    <url>/2019/05/12/%E5%85%BB%E6%88%90%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<p>陈墨一3点就醒了，一晚没睡！<br> <span id="more"></span><br>晚上情绪有点炸裂，很想强迫她躺下，虽然知道这不可能，好不容易忍住了。觉得自己对小孩还是不够理解，总是想让她对自己好感度增加一点，但是一旦真的让我带，又觉得心不在焉。</p>
+<p>不知道别的父母在面对小孩子一直苦恼的时候都是怎么办的。<br><img data-src="/images/cmy-20190512.jpg" width="30%" height="30%"></p>
 ]]></content>
       <categories>
         <category>日记</category>
@@ -105,6 +58,21 @@
     <content><![CDATA[<p>新型肺炎泛滥，就怕传染到小孩。现在 去哪里都要带着口罩，孩子又爱出去玩，真的很危险。<br> <span id="more"></span><br> 去年普通肺炎住院住到大年夜才出院，好不容易赶回家。今年更恐怖，本来打算在杭州过年，硬生生给吓回去了，整个街上人都没有，空荡荡的。出门干什么都觉得很危险。</p>
 <p> 希望家里人的防范意识足够强，能挺过这段时间。</p>
 <img data-src="/images/cmy-20200202.jpg" width="30%" height="30%">
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>带娃</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>养成日记3</title>
+    <url>/2020/02/05/%E5%85%BB%E6%88%90%E6%97%A5%E8%AE%B03/</url>
+    <content><![CDATA[<p>陈墨一会的词语越来越多，懂得的事情也越来越多，好像越来越好玩了。</p>
+<p>除了吃东西仍然啥都要。。。</p>
+ <span id="more"></span>
+<img data-src="/images/cmy-20200205.jpg" width="30%" height="30%">
 ]]></content>
       <categories>
         <category>日记</category>
@@ -130,6 +98,23 @@
       </tags>
   </entry>
   <entry>
+    <title>秋天来了</title>
+    <url>/2020/09/24/%E7%A7%8B%E5%A4%A9%E6%9D%A5%E4%BA%86/</url>
+    <content><![CDATA[<p>这个夏天，陈墨一学会了不穿尿不湿，开始能够分别代词含义，慢慢知道了什么叫分享，能背很长很长的故事了。</p>
+<span id="more"></span>
+<p>小孩子的成长真的快，每一次的成长都能出乎意料，带来惊喜。有时候可能是我们大人无法适应小孩子的成长了，总是以为她还是昨天那个她，实际上，她早已经在短短的时间里，脱胎换骨了。</p>
+<p>希望自己能够在这段时间里也能快速成长，也能学会与她交流，懂得她的心情。</p>
+<p>秋天到了，又快过年啦，你又要长大一岁啦</p>
+<img data-src="/images/cmy-20200924.jpg" width="30%" height="30%">
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>带娃</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>养成日记5</title>
     <url>/2020/04/01/%E5%85%BB%E6%88%90%E6%97%A5%E8%AE%B05/</url>
     <content><![CDATA[<p>今天又是打孩子的一天。</p>
@@ -146,15 +131,12 @@
       </tags>
   </entry>
   <entry>
-    <title>秋天来了</title>
-    <url>/2020/09/24/%E7%A7%8B%E5%A4%A9%E6%9D%A5%E4%BA%86/</url>
-    <content><![CDATA[<p>这个夏天，陈墨一学会了不穿尿不湿，开始能够分别代词含义，慢慢知道了什么叫分享，能背很长很长的故事了。</p>
-<span id="more"></span>
-<p>小孩子的成长真的快，每一次的成长都能出乎意料，带来惊喜。有时候可能是我们大人无法适应小孩子的成长了，总是以为她还是昨天那个她，实际上，她早已经在短短的时间里，脱胎换骨了。</p>
-<p>希望自己能够在这段时间里也能快速成长，也能学会与她交流，懂得她的心情。</p>
-<p>秋天到了，又快过年啦，你又要长大一岁啦</p>
-<img data-src="/images/cmy-20200924.jpg" width="30%" height="30%">
-]]></content>
+    <title>养成日记4</title>
+    <url>/2020/03/01/%E5%85%BB%E6%88%90%E6%97%A5%E8%AE%B04/</url>
+    <content><![CDATA[<p>在家远程办公的好处就是可以随时见到小孩。虽然有时候挺吵，但是随时能看到，就觉得挺幸福。</p>
+<p>没有自己带，总觉得老人会把她带坏。看到她一个人认真地在看书，难以置信平时这么吵闹居然能看进去。如果真的对书有那么深的爱好，那这辈子，至少是个有自己世界、自己思维的人了。</p>
+ <span id="more"></span>
+<img data-src="/images/cmy-20200301.jpg" width="30%" height="30%">]]></content>
       <categories>
         <category>日记</category>
       </categories>
