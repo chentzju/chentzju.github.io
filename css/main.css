@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9fb8ff;
+  background: #26c4a8;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2565,7 +2565,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("../images/background.jpg");
+  background: url("https://cn.bing.com/th?id=OHR.HowgillFells_ZH-CN1134328886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
